@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akshay Pathade</h1>
-<h3 align="center">Result Driven Data Analytics Professional having 2.5+ of years of Experience.</h3>
+<h3 align="center">Result AI Professional having 2.5+ of years of Experience.</h3>
 
 
-- 🔭 I’m currently working on **Microsoft Power BI.**
+- 🔭 I’m currently working on **Agentic AI**
 
-- 🌱 I’m currently learning **Generative AI.**
+- 🌱 I’m currently learning **GraphRAG**
 
-- 💬 Ask me about **Data Analysis, Data Visualization, SQL, Microsoft Power BI.**
+- 💬 Ask me about **Generative AI, Agentic AI, Agentic AI Framework, Microsoft Azure. **
 
 - 📫 How to reach me **akshaypathade9595@gmail.com**
 
