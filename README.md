@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **GraphRAG**
 
-- 💬 Ask me about **Generative AI, Agentic AI, Agentic AI Framework, Microsoft Azure. **
+- 💬 Ask me about Generative AI, Agentic AI, Agentic AI Framework, Microsoft Azure.
 
 - 📫 How to reach me **akshaypathade9595@gmail.com**
 
