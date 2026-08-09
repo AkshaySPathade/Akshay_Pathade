@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Pathade</h1>
-<h3 align="center">Result AI Professional having 4 of years of Experience.</h3>
+<h3 align="center">Result Driven AI Professional having 4 of years of Experience. </h3>
 
 
 - 🔭 I’m currently working on **Agentic AI**
